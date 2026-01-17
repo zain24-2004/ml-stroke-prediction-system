@@ -6,7 +6,7 @@ This project aims to predict the risk of stroke using Machine Learning technique
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Stroke is one of the leading causes of death and long-term disability worldwide. This project applies supervised machine learning models to analyze medical and demographic data and predict whether a patient is at risk of stroke.
 
@@ -14,7 +14,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Predict stroke risk based on patient health data
 - Analyze key factors contributing to stroke occurrence
@@ -23,7 +23,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: Public Stroke Prediction Dataset (e.g., Kaggle)
 - Features include:
@@ -41,7 +41,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 1. Data Collection
 2. Data Cleaning & Preprocessing
@@ -53,7 +53,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Logistic Regression
 - Random Forest
@@ -62,7 +62,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy
 - Precision
@@ -72,7 +72,7 @@ The system processes real-world healthcare data, trains multiple models, and eva
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - NumPy
@@ -82,7 +82,6 @@ The system processes real-world healthcare data, trains multiple models, and eva
 - XGBoost
 - Jupyter Notebook
 
----
 
-## 📂 Project Structure
+
 
